@@ -8,7 +8,7 @@
 ## Data Types
 ### String, Numbers, Boolean, Null, undefined
 
-''''
+```
 const name = 'John';
 const age = 30;
 const rating = 4.5;
@@ -20,7 +20,7 @@ let z;
 
 // To Test
 console.log(typeof name);
-''''
+```
 
 ## Strings & String Methods 18.38
 
